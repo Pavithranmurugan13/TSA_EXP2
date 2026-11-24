@@ -70,10 +70,14 @@ resampled_data['Polynomial Trend'].plot(kind='line',color='black',marker='o')
 
 # OUTPUT
 ## LINEAR TREND ESTIMATION
-<img width="569" height="432" alt="lplot" src="https://github.com/user-attachments/assets/c9b3d3a2-6ece-4fc0-b9a5-bc67d3d50ad2" />
 
+
+<img width="569" height="432" alt="lplot" src="https://github.com/user-attachments/assets/c9b3d3a2-6ece-4fc0-b9a5-bc67d3d50ad2" />
 <img width="362" height="42" alt="linear" src="https://github.com/user-attachments/assets/c9a4960b-bb9e-4499-a1ad-2f9e0497da38" />
+
+
 ## POLYNOMIAL TREND ESTIMATION
+
 <img width="502" height="37" alt="ploynomial" src="https://github.com/user-attachments/assets/e16ad52e-4018-4e4b-8e0d-6993ff983d87" />
 
 <img width="569" height="432" alt="pplot" src="https://github.com/user-attachments/assets/cb5fdb9d-1cc5-4f64-9e77-875f089cb4e4" />
